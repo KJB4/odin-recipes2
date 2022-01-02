@@ -1,4 +1,27 @@
-p {
-    background-color: aqua;
-    color: brown;
+div {
+    color: aquamarine;
+    background-color: orange;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.odd {
+    color: blueviolet;
+    background-color: brown;
+}
+
+.alpha {
+    background-color: black;
+    color: white;
+}
+
+.beta {
+    background-color: yellow;
+}
+
+.alpha,
+.beta   {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }

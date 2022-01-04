@@ -1,23 +1,23 @@
 div {
-    color: aquamarine;
-    background-color: orange;
+    color: goldenrod;
+    background-color: palevioletred;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
 }
 
 .odd {
-    color: blueviolet;
-    background-color: brown;
+    color: rgb(43, 214, 226);
+    background-color: rgb(54, 42, 165);
 }
 
 .alpha {
-    background-color: black;
-    color: white;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .beta {
-    background-color: yellow;
+    background-color: rgb(0, 255, 136);
 }
 
 .alpha,

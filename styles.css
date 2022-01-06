@@ -4,24 +4,49 @@ div {
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+    height: 100px;
+    padding: 10px;
+    width: 100px;
+    border: 20px solid purple;
+    box-sizing: border-box;
 }
 
 .odd {
     color: rgb(43, 214, 226);
     background-color: rgb(54, 42, 165);
+    height: 100px;
+    padding: 10px;
+    width: 100px;
+    border: 20px solid purple;
+    box-sizing: border-box;
 }
 
 .alpha {
     background-color: orange;
-    color:red
+    color:red;
+    height: 100px;
+    padding: 10px;
+    width: 100px;
+    border: 20px solid purple;
+    box-sizing: border-box;
 }
 
 .beta {
     background-color: rgb(0, 255, 136);
+    height: 100px;
+    padding: 10px;
+    width: 100px;
+    border: 20px solid purple;
+    box-sizing: border-box;
 }
 
 .alpha,
 .beta   {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
+    height: 100px;
+    padding: 10px;
+    width: 100px;
+    border: 20px solid purple;
+    box-sizing: border-box;
 }

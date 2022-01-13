@@ -1,53 +1,7 @@
-div {
-    color: goldenrod;
-    background-color: palevioletred;
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
-    height: 200px;
-    padding: 200px;
-    width: 100px;
-    border: 45px solid purple;
-    box-sizing: border-box;
+.h2 {
+    background-color: crimson;
 }
 
-.odd {
-    color: rgb(43, 214, 226);
-    background-color: rgb(54, 42, 165);
-    height: 100px;
-    padding: 200px;
-    width: 100px;
-    border: 50px solid purple;
-    box-sizing: border-box;
-}
-
-.alpha {
-    background-color: orange;
-    color:red;
-    height: 200px;
-    padding: 200px;
-    width: 100px;
-    border: 200px solid purple;
-    text-align: left;
-    box-sizing: border-box;
-}
-
-.beta {
-    background-color: rgb(0, 255, 136);
-    height: 100px;
-    padding: 200px;
-    width: 100px;
-    border: 20px solid purple;
-    box-sizing: border-box;
-}
-
-.alpha,
-.beta   {
-    font-size: 28px;
-    font-family: Helvetica, "Times New Roman", sans-serif;
-    height: 100px;
-    padding: 100px;
-    width: 100px;
-    border: 20px solid purple;
-    box-sizing: border-box;
+.body {
+    color: darkblue;
 }

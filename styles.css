@@ -1,7 +1,33 @@
-.h2 {
+h2 {
     background-color: crimson;
 }
 
-.body {
-    color: darkblue;
+body {
+    color: rgb(23, 139, 0);
+}
+
+div {
+    padding: 20%;
+    margin: 20%;
+    background-color: rgb(38, 0, 255);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: rgb(153, 0, 255);
+    color: rgb(128, 47, 0);
+    margin: 5%;
+    padding: 5%;
+    font-family: Impact;
+    box-shadow: indianred;
+    border-color: indigo;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    padding: 20%;
+    margin: 20%;
+    background-color: indigo;
 }

@@ -1,33 +1,30 @@
-h2 {
-    background-color: crimson;
-}
-
-body {
-    color: rgb(23, 139, 0);
-}
-
-div {
-    padding: 20%;
-    margin: 20%;
-    background-color: rgb(38, 0, 255);
-    font-size: medium;
-    font-family: 'Times New Roman', Times, serif;
-}
-
 h1 {
-    background-color: rgb(153, 0, 255);
-    color: rgb(128, 47, 0);
+    background-color: #e27d60;
+    box-shadow: 0 0 100px 0 #E8A87C;
+    color: #85DCB0;
+    padding: 20%;
     margin: 5%;
-    padding: 5%;
-    font-family: Impact;
-    box-shadow: indianred;
-    border-color: indigo;
+    font-size: 50px;
+    font-family: Impact, sans-serif;
+    text-align: center;
 }
 
-a {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 80%;
-    padding: 20%;
-    margin: 20%;
-    background-color: indigo;
+.rat {
+    background-color: #C38D98;
+    font-size: 15px;
+    padding: 5%;
+    margin: 5%;
+    font-family: 'Times New Roman';
+    text-align: center;
+    box-shadow: 0 0 50px 0 red; 
+    
 }
+  
+a {
+    font-size: 40px;
+    font-style: italic;
+    margin: 1%;
+    color: greenyellow;
+}
+
+

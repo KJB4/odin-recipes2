@@ -49,3 +49,14 @@ ol {
     text-align: center;
     box-shadow: violet;
 }
+
+.name {
+    background-color: #C38D98;
+    font-size: 25px;
+    padding: 5%;
+    margin: 5%;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    box-shadow: 0 0 50px 0 rgb(255, 238, 0); 
+    color: rgb(0, 139, 7);
+}

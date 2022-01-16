@@ -27,4 +27,25 @@ a {
     color: greenyellow;
 }
 
+p {
+    background-color: blueviolet;
+    color: chartreuse;
+    box-shadow: 0 0 100px 0 yellow;
+    padding: 5%;
+    text-align: left;
+    width: auto;
+    height: auto;
+}
 
+.hello {
+    background-color: yellowgreen;
+    color: violet;
+    width: 50%;
+    height: 5%;
+}
+
+ol {
+    color: tomato;
+    text-align: center;
+    box-shadow: violet;
+}

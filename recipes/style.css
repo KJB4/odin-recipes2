@@ -1,0 +1,14 @@
+h2 {
+    background-color: blueviolet;
+    color: chartreuse;
+    width: 10%;
+    height: 10%;
+    margin: 20%;
+    padding: 20%;
+}
+
+.help {
+    background-color: chocolate;
+    color: darkblue;
+    padding: 20%;
+}

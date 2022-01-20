@@ -22,3 +22,36 @@ h1 {
     padding: 10%;
     text-align: center;
 }
+
+.pop {
+    background-color: orange;
+    color: rgb(30, 255, 0);
+    width: 10%;
+    height: 10%;
+    margin: 5%;
+    padding: 10%;
+    text-align: center;
+}
+
+p {
+    background-color: rgb(102, 210, 30);
+    color: darkblue;
+    padding: 20%;
+    margin: 5%;
+}
+
+ol, ul {
+    background-color: rgb(111, 210, 30);
+    color: rgb(139, 39, 0);
+    padding: 20%;
+    margin: 5%;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+
+.rat {
+    
+}

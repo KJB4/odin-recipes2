@@ -111,3 +111,27 @@ footer {
     box-shadow: 0 0 50px gold;
     
 }
+
+header {
+    background-color: orange;
+    color: rgb(0, 225, 255);
+    width: auto;
+    height: auto;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    box-shadow: 0 0 50px gold;
+    
+}
+
+.alpha {
+    background-color: orange;
+    color: rgb(0, 225, 255);
+    width: auto;
+    height: auto;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    box-shadow: 0 0 50px gold;
+    
+}

@@ -50,7 +50,7 @@ p {
 
 ol, ul {
     background-color: rgb(111, 210, 30);
-    color: rgb(139, 39, 0);
+    color: rgb(51, 139, 0);
     padding: 20%;
     margin: 5%;
 }
@@ -100,3 +100,14 @@ span {
     
 }
 
+footer {
+    background-color: orange;
+    color: rgb(0, 225, 255);
+    width: auto;
+    height: auto;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    box-shadow: 0 0 50px gold;
+    
+}

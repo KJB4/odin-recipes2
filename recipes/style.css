@@ -88,26 +88,3 @@ body {
     
 }
 
-span {
-    background-color: orange;
-    color: rgb(0, 225, 255);
-    width: auto;
-    height: auto;
-    margin: 1%;
-    padding: 1%;
-    text-align: center;
-    box-shadow: 0 0 50px gold;
-    
-}
-
-footer {
-    background-color: orange;
-    color: rgb(0, 225, 255);
-    width: auto;
-    height: auto;
-    margin: 1%;
-    padding: 1%;
-    text-align: center;
-    box-shadow: 0 0 50px gold;
-    
-}

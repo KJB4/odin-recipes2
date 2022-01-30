@@ -31,7 +31,7 @@ h1 {
 }
 
 .pop {
-    background-color: orange;
+    background-color: rgb(255, 115, 0);
     color: rgb(30, 255, 0);
     width: auto;
     height: auto;
@@ -50,7 +50,7 @@ p {
 
 ol, ul {
     background-color: rgb(111, 210, 30);
-    color: rgb(51, 139, 0);
+    color: rgb(0, 32, 139);
     padding: 20%;
     margin: 5%;
 }

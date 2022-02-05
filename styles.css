@@ -53,10 +53,21 @@ ol {
 .name {
     background-color: #C38D98;
     font-size: 25px;
-    padding: 5%;
-    margin: 5%;
+    padding: 10%;
+    margin: 10%;
     font-family: Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     box-shadow: 0 0 50px 0 rgb(255, 238, 0); 
     color: rgb(0, 139, 7);
+}
+
+.chef {
+    background-color: orange;
+    font-size: 25px;
+    padding: 10%;
+    margin: 10%;
+    font-family: 'Times New Roman';
+    text-align: center;
+    box-shadow: 0 0 50px 0 red;
+    color: green;
 }
